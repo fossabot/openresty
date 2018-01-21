@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fopenresty.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fopenresty?ref=badge_shield)
+
 Name
 ====
 
@@ -113,3 +115,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fopenresty.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fopenresty?ref=badge_large)
